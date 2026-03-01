@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Dexter
+# 👋 Olá, eu sou o Dexter (┬┬﹏┬┬)
 
 🎓 Estudante de Sistemas de Informação  
 💻 Focado em desenvolvimento web  
