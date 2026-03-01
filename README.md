@@ -16,12 +16,18 @@
 ---
 
 ## 📫 Contato
-
-<a href="https://www.instagram.com/schmitt_dexter/" target="_blank">
+Instagram: dexter_schmitt
+<br> <a href="https://www.instagram.com/schmitt_dexter/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 
-<a href="mailto:dexter.schmitt@unifebe.edu.br?subject=Contato%20via%20GitHub" target="_blank">
+Email pessoal: `dexter.schmitt@hotmail.com`
+<br> <a href="mailto:dexter.schmitt@hotmail.com?subject=Contato%20via%20GitHub" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+
+Email estudantil:`dexter.schmitt@unifebe.edu.br`
+<br> <a href="mailto:dexter.schmitt@unifebe.edu.br?subject=Contato%20via%20GitHub" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 
