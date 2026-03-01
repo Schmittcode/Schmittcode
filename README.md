@@ -25,6 +25,4 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 
-<img src="https://img.shields.io/badge/Discord-dexterschmitt3122-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-
 ![Snake animation](https://github.com/Schmittcode/Schmittcode/blob/output/github-contribution-grid-snake-dark.svg)
